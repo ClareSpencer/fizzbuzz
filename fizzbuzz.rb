@@ -1,9 +1,6 @@
-def FizzBuzzer(inputNumber)
-    return inputNumber
-end
-#this is a test - aagain
 
-puts "give me a number"
-number = gets.chomp
-fizzbuzz = FizzBuzzer(number)
-puts fizzbuzz
+
+# puts "give me a number"
+# number = gets.chomp
+# fizzbuzz = FizzBuzzer(number)
+# puts fizzbuzz
